@@ -13,7 +13,7 @@ CompoStage clasifica residuos en dos categorias:
 - COMPOSTABLE: restos organicos, cascaras, yerba, papel sin tinta
 - NO COMPOSTABLE: plasticos, vidrio, metal, tetrapack, colillas
 
-Cuando un nino acerca un residuo al cesto:
+Cuando un niño acerca un residuo al cesto:
 
 1. El sensor ultrasonico detecta el objeto a menos de 15 cm
 2. La camara toma una foto automaticamente
