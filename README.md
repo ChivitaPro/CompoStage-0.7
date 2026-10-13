@@ -2,7 +2,7 @@
 
 Cesto inteligente con IA que ensena a compostar jugando.
 
-Sistema de clasificacion automatica de residuos que combina vision artificial, interaccion por voz y control fisico para educar a ninos de jardin de infantes sobre el compostaje.
+Sistema de clasificacion automatica de residuos que combina vision artificial y control fisico para educar a niños de jardin de infantes sobre el compostaje.
 
 ---
 
